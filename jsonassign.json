@@ -1,0 +1,37 @@
+{
+    "student" : [
+        {
+            "id":"6130823921",
+            "name":"Ex",
+            "surname":"santi",
+            "address":
+                {
+                    "zone":"bangkae",
+                    "distinct":"bangkae",
+                    "province":"bangkok"
+                }   
+        },
+        {
+            "id":"6130824521",
+            "name":"Sakarat",
+            "surname":"Sooksang",
+            "address":
+                {
+                    "zone":"salathammasop",
+                    "distinct":"thaweewattana",
+                    "province":"bangkok"
+                }   
+        },
+        {
+            "id":"6130826821",
+            "name":"TOR",
+            "surname":"jummaidai",
+            "address":
+                {
+                    "zone":"phyathai",
+                    "distinct":"phyathai",
+                    "province":"bangkok"
+                }   
+        }
+    ]
+}
